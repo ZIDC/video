@@ -10,7 +10,7 @@
 
 
 ## 视频
- [特利迦奥特曼](https://zidc.github.io/video/奥特曼/特利迦) 
+ [特利迦奥特曼](https://zidc.github.io/video/奥特曼/特利迦.txt) 
 
 
 
