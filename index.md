@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 视频手动更新
 
-You can use the [editor on GitHub](https://github.com/ZIDC/video/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+需要看什么视频，或者视频资源失效 [请在这里邮箱反馈给我](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=M1BZSURZc1VcS15SWl8dUFxe) 我给大家提供免费的视频。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 免责声明
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本站视以及相关图片和文字内容 来源于网络（非本站）”的作品均转载自其它媒体，转载目的在于传递更多信息，并不代表本网赞同其观点和对其真实性负责。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 视频
+ [特利迦奥特曼](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=M1BZSURZc1VcS15SWl8dUFxe) 
+  <img src="https://bkimg.cdn.bcebos.com/pic/8718367adab44aed2e7341429f529001a18b87d64d4c?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5/format,f_auto" width="50"/>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZIDC/video/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
