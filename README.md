@@ -1,6 +1,6 @@
 ## 视频手动更新
 
-需要看什么视频，或者视频资源失效 [请在这里邮箱反馈给我](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=M1BZSURZc1VcS15SWl8dUFxe) 我给大家提供免费的视频。
+需要看什么视频，或者视频资源失效 <br>[请在这里邮箱反馈给我](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=M1BZSURZc1VcS15SWl8dUFxe) 
 
 
 ## 免责声明
