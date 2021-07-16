@@ -15,3 +15,6 @@
 
  [宝贝老板1+2](https://zidc.github.io/video/电影/宝贝老板.txt)
 <br><img src="https://img2.jiemian.com/jiemian/original/20210707/162564489861298100_a700xH.jpg" width="50"/>
+
+ [龙珠超131](https://zidc.github.io/video/动漫/龙珠超.txt)
+<br><img src="https://c-ssl.duitang.com/uploads/item/201610/22/20161022132253_4MWYe.jpeg" width="50"/>
