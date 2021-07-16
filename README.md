@@ -12,3 +12,6 @@
 ## 视频
  [特利迦奥特曼](https://zidc.github.io/video/奥特曼/特利迦.txt)
 <br><img src="https://inews.gtimg.com/newsapp_bt/0/13414338157/1000" width="50"/>
+
+ [宝贝老板1+2](https://zidc.github.io/video/电影/宝贝老板.txt)
+<br><img src="https://bkimg.cdn.bcebos.com/pic/7c1ed21b0ef41bd50893fa0a58da81cb38db3d0f?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5MzM=,g_7,xp_5,yp_5/format,f_auto" width="50"/>
