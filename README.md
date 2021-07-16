@@ -11,6 +11,7 @@
 
 ## 视频
  [特利迦奥特曼](https://zidc.github.io/video/奥特曼/特利迦.txt) 
+ <img src=" https://inews.gtimg.com/newsapp_bt/0/13414338157/1000" width="100"/>
 
 
 
