@@ -1,7 +1,7 @@
 ## 视频手动更新
 
 需要看什么视频，或者视频资源失效 <br>[请在这里邮箱反馈给我](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=M1BZSURZc1VcS15SWl8dUFxe) <br>
-白简动漫下载 密码:6666  (https://wwa.lanzous.com/b04n5j3yj) 
+白简动漫下载 密码:6666  (https://wwa.lanzoui.com/b04n5j3yj) 
 
 ## 免责声明
 
