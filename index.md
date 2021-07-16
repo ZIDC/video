@@ -11,7 +11,7 @@
 
 ## 视频
  [特利迦奥特曼](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=M1BZSURZc1VcS15SWl8dUFxe) 
-  <img src="https://bkimg.cdn.bcebos.com/pic/8718367adab44aed2e7341429f529001a18b87d64d4c?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxODA=,g_7,xp_5,yp_5/format,f_auto" width="50"/>
+  <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202106%2F11%2F20210611172928_339c8.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629001654&t=625627969a6b66d397fa3488b2510515" width="100"/>
 
 
 
