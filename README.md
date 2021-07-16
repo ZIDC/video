@@ -10,7 +10,7 @@
 
 
 ## 视频
- [特利迦奥特曼](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=M1BZSURZc1VcS15SWl8dUFxe) 
+ [特利迦奥特曼](https://zidc.github.io/video/奥特曼/特利迦) 
 
 
 
