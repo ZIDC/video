@@ -9,15 +9,15 @@
 
 
 ## 鬼灭之刃 游郭篇  (个人服务器)<br>
-[鬼灭之刃 游郭篇 01](http://www.cjzwjyun.cf//鬼灭之刃2/1/1.m3u8)<br>
-[鬼灭之刃 游郭篇 02](http://www.cjzwjyun.cf//鬼灭之刃2/2/2.m3u8)<br>
-[鬼灭之刃 游郭篇 03](http://www.cjzwjyun.cf//鬼灭之刃2/3/3.m3u8)<br>
-[鬼灭之刃 游郭篇 04](http://www.cjzwjyun.cf//鬼灭之刃2/4/4.m3u8)<br>
-[鬼灭之刃 游郭篇 05](http://www.cjzwjyun.cf//鬼灭之刃2/5/5.m3u8)<br>
-[鬼灭之刃 游郭篇 06](http://www.cjzwjyun.cf//鬼灭之刃2/6/6.m3u8)<br>
-[鬼灭之刃 游郭篇 07](http://www.cjzwjyun.cf//鬼灭之刃2/7/7.m3u8)<br>
-[鬼灭之刃 游郭篇 08(未更新)](http://www.cjzwjyun.cf//鬼灭之刃2/8/8.m3u8)<br>
-[鬼灭之刃 游郭篇 09(未更新)](http://www.cjzwjyun.cf//鬼灭之刃2/9/9.m3u8)<br>
+[鬼灭之刃 游郭篇 01](http://www.cjzwjyun.cf/鬼灭之刃2/1/1.m3u8)<br>
+[鬼灭之刃 游郭篇 02](http://www.cjzwjyun.cf/鬼灭之刃2/2/2.m3u8)<br>
+[鬼灭之刃 游郭篇 03](http://www.cjzwjyun.cf/鬼灭之刃2/3/3.m3u8)<br>
+[鬼灭之刃 游郭篇 04](http://www.cjzwjyun.cf/鬼灭之刃2/4/4.m3u8)<br>
+[鬼灭之刃 游郭篇 05](http://www.cjzwjyun.cf/鬼灭之刃2/5/5.m3u8)<br>
+[鬼灭之刃 游郭篇 06](http://www.cjzwjyun.cf/鬼灭之刃2/6/6.m3u8)<br>
+[鬼灭之刃 游郭篇 07](http://www.cjzwjyun.cf/鬼灭之刃2/7/7.m3u8)<br>
+[鬼灭之刃 游郭篇 08(未更新)](http://)<br>
+[鬼灭之刃 游郭篇 09(未更新)](http://)<br>
 
 
 
