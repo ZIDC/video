@@ -18,3 +18,6 @@
 
  [龙珠超131](https://zidc.github.io/video/动漫/龙珠超.txt)
 <br><img src="https://c-ssl.duitang.com/uploads/item/201610/22/20161022132253_4MWYe.jpeg" width="50"/>
+
+## 鬼灭之刃 游郭篇
+<br><img src="https://s2.loli.net/2021/12/06/J9w8rLWoeREG2vM.jpg" width="70"/>
