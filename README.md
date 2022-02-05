@@ -22,6 +22,6 @@
 
 
 ## 视频
- [鬼灭之刃2(更新至第9集)](https://zidc.github.io/video/奥特曼/特利迦.txt)
+ [鬼灭之刃2(更新至第9集)](https://github.com/ZIDC/video/edit/gh-pages/README.md#%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83-%E6%B8%B8%E9%83%AD%E7%AF%87--%E4%B8%AA%E4%BA%BA%E6%9C%8D%E5%8A%A1%E5%99%A8)
 <br><img src="https://img2.doubanio.com/view/photo/l/public/p2851359433.webp" width="70"/>
 
